@@ -28,9 +28,9 @@
     <!-- PHP -->
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/> </a> 
     <!-- CodeIgniter -->
-    <a style="padding-right:8px;" href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg"/> </a> 
+    <a style="padding-right:8px;" href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" width="48px"/> </a> 
     <!-- Composer -->
-    <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/composer.svg"/> </a> 
+    <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/composer.svg" width="48px"/> </a> 
     <!-- MySQL -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <!-- Git -->
