@@ -1,15 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/iwansuryaningrat">Iwan Suryaningrat</a></h1>
 <h3 align="center">I'm a passionate Back-End Web Developer from Indonesia.</h3>
 
-<br/>
-
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in back-end web developer.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 You can contact me via Gmail <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
-  <br/>
   <br/>
 
 ## 🚀 Languages and Tools:
@@ -42,9 +39,7 @@
     <!-- VS Code -->
     <a style="padding-right:8px;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48px"/> </a>
 </p>
-
 <br/>
-
 <p align="center">
     <a href="https://github.com/iwansuryaningrat">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iwan Suryaningrat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
@@ -66,7 +61,6 @@
 <br/>
 <a href="https://github.com/iwansuryaningrat"><img alt="Iwan Suryaningrat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iwansuryaningrat&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&hide_border=true" /></a>
 <br/>
-<br/>
 
 ## Connect with me:
 
@@ -78,7 +72,6 @@
 <a style="padding-right:20px;" href = "https://twitter.com/tagtitikkoma"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="48px"/></a>
 
 </p>
-<br/>
 <br/>
 
 ## ❤ Views and Followers
