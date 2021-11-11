@@ -5,6 +5,7 @@
 
 - 👀 I’m interested in back-end web developer.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
+- 🔭 I’m currently working on **Cuanmax**
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 You can contact me via Gmail <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
   <br/>
@@ -46,8 +47,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iwan Suryaningrat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
 </p>
-<br/>
-<br/>
 
 ## 📊 My Github Stats
 
