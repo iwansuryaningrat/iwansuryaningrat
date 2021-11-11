@@ -23,14 +23,24 @@
     <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <!-- Node.js -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <!-- NPM -->
+    <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
     <!-- PHP -->
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/> </a> 
     <!-- CodeIgniter -->
-    <a style="padding-right:8px;" href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/65/code-igniter.svg"/> </a> 
+    <!-- <a style="padding-right:8px;" href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/65/code-igniter.svg"/> </a>  -->
+    <!-- Composer -->
+    <!-- <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank">  </a>  -->
     <!-- MySQL -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <!-- Git -->
     <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <!-- VS Code -->
     <a style="padding-right:8px;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/iwansuryaningrat">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iwan Suryaningrat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
+    </a>
 </p>
