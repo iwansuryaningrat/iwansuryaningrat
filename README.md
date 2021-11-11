@@ -62,7 +62,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/iwansuryaningrat/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href = "https://www.instagram.com/sningrat_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href = "https://www.linkedin.com/in/iwansuryaningrat/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="48px"/></a>
+<a href = "https://www.instagram.com/sningrat_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="48px"/></a>
 
 </p>
