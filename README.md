@@ -26,7 +26,7 @@
     <!-- PHP -->
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/> </a> 
     <!-- CodeIgniter -->
-    <a style="padding-right:8px;" href="https://codeigniter.com/" target="_blank"> <img src="https://www.logosurfer.com/wp-content/uploads/2018/03/codeigniter-logo_0.jpg"/> </a> 
+    <a style="padding-right:8px;" href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/65/code-igniter.svg"/> </a> 
     <!-- MySQL -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <!-- Git -->
