@@ -64,7 +64,6 @@
 <br/>
 
 <a href="https://github.com/iwansuryaningrat"><img alt="Iwan Suryaningrat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iwansuryaningrat&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&hide_border=true" /></a>
-<br/>
 
 ## Connect with me:
 
