@@ -63,9 +63,9 @@
 <p align="left">
 
 <a href = "https://iwansuryaningrat.github.io/"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="48px"/></a>
-<a style="padding-right:8px;" href = "https://www.linkedin.com/in/iwan-suryaningrat/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="48px"/></a>
-<a style="padding-right:8px;" href = "https://www.instagram.com/sningrat_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="48px"/></a>
-<a style="padding-right:8px;" href = "https://twitter.com/tagtitikkoma"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="48px"/></a>
+<a style="padding-right:10px;" href = "https://www.linkedin.com/in/iwan-suryaningrat/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="48px"/></a>
+<a style="padding-right:10px;" href = "https://www.instagram.com/sningrat_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="48px"/></a>
+<a style="padding-right:10px;" href = "https://twitter.com/tagtitikkoma"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="48px"/></a>
 
 </p>
 
