@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in back-end web developer.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
-- 🔭 I’m currently working on **Cuanmax**
+- 🔭 I’m currently working on <a href="https://cuanmax.id">**Cuanmax**</a>
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 You can contact me via Gmail <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
   <br/>
