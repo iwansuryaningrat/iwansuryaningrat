@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/iwansuryaningrat">Iwan Suryaningrat</a></h1>
-<h3 align="center">I'm a passionate Back-End Web Developer from Indonesia.</h3>
+<h3 align="center">I'm a passionate Back-End Engineer from Indonesia.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in back-end web developer.
+- 👀 I’m interested in Back-End Engineer.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
-- 🔭 I’m currently working on <a href="https://cuanmax.id">**Cuanmax**</a>
+- 🔭 I’m currently working on <a href="https://cuanmax.co.id">**Cuanmax**</a> as Back-End Engineer
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 You can contact me via Gmail <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
   <br/>
