@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on <a href="https://cuanmax.id">**Cuanmax**</a> as Back-End Engineer
 - 💻 I'm also a freelancer for website development
 - 💞️ I’m looking to collaborate on to improve my skills
-- 📫 You can contact me via Gmail <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
+- 📫 You can contact me via Gmail at <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
   <br/>
 
 ## 🚀 Languages and Tools:
