@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in Back-End Engineer.
-- 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
+- 🌱 I’m currently learning at Diponegoro University, majoring in Informatics
 - 🔭 I’m currently working on <a href="https://cuanmax.id">**Cuanmax**</a> as Back-End Engineer
 - 💻 I'm also a freelancer for website development
 - 💞️ I’m looking to collaborate on to improve my skills
