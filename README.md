@@ -35,7 +35,7 @@
     <!-- CodeIgniter New -->
     <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter 4"/></a>
     <!-- Composer -->
-    <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/composer.svg" width="36" title="Composer" /> </a> 
+    <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/composer.svg" width="32" title="Composer" /> </a> 
     <!-- MySQL -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="42" title="MySQL" /> </a>
     <!-- MongoDB -->
