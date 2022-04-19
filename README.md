@@ -12,32 +12,36 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <!-- HTML -->
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <!-- CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <!-- JavaScript -->
-    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <!-- HTML New -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
+    <!-- CSS New -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
+    <!-- Bootstrap New -->
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="42" title="Bootstrap"/></a> 
+    <!-- JavaScript New -->
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="42" title="JavaScript" /></a>
+    <!-- JSON New -->
+    <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
     <!-- Node.js -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <!-- NPM -->
-    <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
-    <!-- PHP -->
-    <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/> </a> 
-    <!-- CodeIgniter -->
-    <a style="padding-right:8px;" href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" width="48px"/> </a> 
+    <!-- ExpressJS -->
+    <!-- NPM New -->
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="npm" /></a>
+    <!-- PHP New -->
+    <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a> 
+    <!-- CodeIgniter New -->
+    <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter 4"/></a>
     <!-- Composer -->
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" width="48px"/> </a> 
     <!-- MySQL -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <!-- Git -->
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <!-- MongoDB -->
+    <!-- Git New -->
+    <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="git"/></a> 
     <!-- GitHub -->
-    <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="48px"/> </a> 
-    <!-- VS Code -->
-    <a style="padding-right:8px;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48px"/> </a>
+    <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
+    <!-- VS Code New -->
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
 </p>
 <br/>
 
