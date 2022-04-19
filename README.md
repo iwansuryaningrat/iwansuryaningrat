@@ -25,9 +25,9 @@
     <!-- JSON New -->
     <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
     <!-- Node.js -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="42" title="NodeJs" /> </a> 
     <!-- ExpressJS -->
-    <a style="padding-right:8px;" href="https://expressjs.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/express.svg?response-content-disposition=attachment%3Bfilename%3Dexpress.svg"/> </a>
+    <a style="padding-right:8px;" href="https://expressjs.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/express.svg?response-content-disposition=attachment%3Bfilename%3Dexpress.svg" width="42" title="Express" /> </a>
     <!-- NPM New -->
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="npm" /></a>
     <!-- PHP New -->
@@ -35,12 +35,12 @@
     <!-- CodeIgniter New -->
     <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter 4"/></a>
     <!-- Composer -->
-    <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" width="48px"/> </a> 
+    <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" width="42" title="Composer" /> </a> 
     <!-- MySQL -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="42" title="MySQL" /> </a>
     <!-- MongoDB -->
     <!-- Git New -->
-    <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="git"/></a> 
+    <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="Git"/></a> 
     <!-- GitHub -->
     <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
     <!-- VS Code New -->
