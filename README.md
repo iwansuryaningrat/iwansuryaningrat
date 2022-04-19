@@ -39,13 +39,15 @@
     <!-- MySQL -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="42" title="MySQL" /> </a>
     <!-- MongoDB -->
-    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="42" title="MongoDB" /> </a>
+    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="36" title="MongoDB" /> </a>
     <!-- Git New -->
     <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="Git"/></a> 
     <!-- GitHub -->
     <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
     <!-- VS Code New -->
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
+    <!-- XAMPP -->
+    <a href="https://www.apachefriends.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/xampp.svg" width="42" title="XAMPP" /></a>
 </p>
 <br/>
 
