@@ -27,7 +27,7 @@
     <!-- Node.js -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a> 
     <!-- ExpressJS -->
-    <a style="padding-right:8px;" href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" backgound-color="white" width="42" title="Express" /> </a>
+    <a style="padding-right:8px;" href="https://expressjs.com/" target="_blank"> <img src="/assets/ExpressJS.png" backgound-color="white" width="42" title="Express" /> </a>
     <!-- NPM New -->
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="npm" /></a>
     <!-- PHP New -->
