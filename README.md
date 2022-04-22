@@ -20,6 +20,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
     <!-- Bootstrap New -->
     <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="42" title="Bootstrap"/></a> 
+    <!-- JQuery -->
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="JQuery" /></a>
     <!-- JavaScript New -->
     <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="42" title="JavaScript" /></a>
     <!-- JSON New -->
@@ -27,7 +29,7 @@
     <!-- Node.js -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a> 
     <!-- ExpressJS -->
-    <a style="padding-right:8px;" href="https://expressjs.com/" target="_blank"> <img src="/assets/expressjs.svg" backgound-color="white" width="42px" title="Express" /> </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" alt="Express" /></a>
     <!-- NPM New -->
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="npm" /></a>
     <!-- PHP New -->
@@ -37,7 +39,7 @@
     <!-- Composer -->
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/composer.svg" width="32" title="Composer" /> </a> 
     <!-- MySQL -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="42" title="MySQL" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42" height="42" alt="MySQL" /></a>
     <!-- MongoDB -->
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="42" title="MongoDB" /> </a>
     <!-- Git New -->
@@ -48,6 +50,8 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
     <!-- XAMPP -->
     <a href="https://www.apachefriends.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/xampp.svg" width="42" title="XAMPP" /></a>
+    <!-- Figma -->
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" /></a>
 </p>
 <br/>
 
