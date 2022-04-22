@@ -52,6 +52,8 @@
     <a href="https://www.apachefriends.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/xampp.svg" width="42" title="XAMPP" /></a>
     <!-- Figma -->
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" title="Figma"/></a>
+    <!-- Postman -->
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" width="42" height="42" alt="Postman" title="Postman"/></a>
 </p>
 <br/>
 
