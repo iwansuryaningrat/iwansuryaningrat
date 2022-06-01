@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Back-End Engineer.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics
-- 🏢 I'm a Co-Founder of <a href="https://cuanmax.id">**Cuanmax**</a> and also working as Project Manager & Back-End Engineer on there.
+- 🏢 I'm Co-Founder of <a href="https://cuanmax.id">**Cuanmax**</a> and also working as Project Manager & Back-End Engineer on there.
 - 💻 I'm also a freelancer for website development
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 You can contact me via Gmail at <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
