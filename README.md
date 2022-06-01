@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px" height="5px">, I'm <a href="https://github.com/iwansuryaningrat">Iwan Suryaningrat</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm <a href="https://github.com/iwansuryaningrat">Iwan Suryaningrat</a></h1>
 <h3 align="center">I'm a passionate Back-End Engineer from Indonesia.</h3>
 
 ## 🙋‍♂️ About Me
