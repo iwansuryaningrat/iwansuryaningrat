@@ -25,7 +25,11 @@
     <!-- JSON New -->
     <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
     <!-- Node.js -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a>
+    <!-- PHP New -->
+    <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a>
+    <!-- Golang -->
+    <a href="https://go.dev/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="42" title="Go" /></a>
 
 </p>
 
