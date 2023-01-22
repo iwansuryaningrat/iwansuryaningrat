@@ -111,6 +111,8 @@
 
 </p>
 
+## 📊 My Github Stats
+
 <br/>
 
 <p align="center">
@@ -118,8 +120,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iwan Suryaningrat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
 </p>
-
-## 📊 My Github Stats
 
 <br/>
 <a href="https://github.com/iwansuryaningrat"><img alt="Iwan Suryaningrat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iwansuryaningrat&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
