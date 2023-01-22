@@ -70,6 +70,8 @@
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" width="42" title="AWS" /></a>
     <!-- Digital Ocean -->
     <a href="https://www.digitalocean.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="42" title="Digital Ocean" /></a>
+    <!-- Heroku -->
+    <a href="https://www.heroku.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="42" title="Heroku" /></a>
     <!-- NGINX -->
     <a href="http://nginx.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="42" title="Nginx" /></a>
 </p>
