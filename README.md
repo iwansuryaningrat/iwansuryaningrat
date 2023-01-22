@@ -13,9 +13,9 @@
 
 ## 🚀 Languages and Tools:
 
-1. Programming
+## 1. Programming
 
-<p align="center"> 
+<p align="left"> 
     <!-- HTML New -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
     <!-- CSS New -->
