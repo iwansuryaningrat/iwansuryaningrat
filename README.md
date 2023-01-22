@@ -48,7 +48,6 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" alt="Express" title="ExpressJS" /></a>
     <!-- CodeIgniter New -->
     <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter"/></a>
-</p>
     <!-- Laravel -->
     <a href="https://laravel.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="42" title="Laravel"/></a>
 </p>
