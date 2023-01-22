@@ -97,6 +97,18 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" title="Figma"/></a>
 </p>
 
+#### 6. Operating System
+
+<p align="left">
+    <!-- Windows -->
+    <a href="https://www.microsoft.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="42" title="Windows"/></a>
+    <!-- Linux -->
+    <a href="https://www.linux.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="42" title="Linux"/></a>
+    <!-- Ubuntu -->
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="42" title="Ubuntu"/></a>
+
+</p>
+
 <br/>
 
 <p align="center">
