@@ -46,6 +46,12 @@
     <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="Git"/></a> 
     <!-- GitHub -->
     <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="42" title="Docker" /></a> 
+    <!-- AWS -->
+    <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/aws.svg" width="42" title="AWS" /></a>
+    <!-- NGINX -->
+    <a href="http://nginx.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="42" title="Nginx" /></a>
     <!-- VS Code New -->
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
     <!-- XAMPP -->
