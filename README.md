@@ -55,6 +55,8 @@
 <p align="left"> 
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42" height="42" alt="MySQL" title="MySQL"/></a>
+    <!-- PostgreSQL -->
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL"/></a>
     <!-- MongoDB -->
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="42" title="MongoDB" /> </a>
 </p>
@@ -85,6 +87,8 @@
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/composer.svg" width="32" title="Composer" /> </a>
     <!-- Docker -->
     <a href="https://www.docker.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="42" title="Docker" /></a> 
+    <!-- Kubernetes -->
+    <a href="https://kubernetes.io/id/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" width="42" title="Kubernetes" /></a> 
     <!-- XAMPP -->
     <a href="https://www.apachefriends.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/xampp.svg" width="42" title="XAMPP" /></a>
     <!-- Postman -->
