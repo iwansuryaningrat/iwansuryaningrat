@@ -13,54 +13,27 @@
 
 ## 🚀 Languages and Tools:
 
+1. Programming
+
 <p align="center"> 
     <!-- HTML New -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
     <!-- CSS New -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
-    <!-- Bootstrap New -->
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="42" title="Bootstrap"/></a> 
-    <!-- JQuery -->
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="JQuery" title="JQuery" /></a>
     <!-- JavaScript New -->
     <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="42" title="JavaScript" /></a>
     <!-- JSON New -->
     <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
     <!-- Node.js -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a> 
-    <!-- ExpressJS -->
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" alt="Express" title="ExpressJS" /></a>
-    <!-- NPM New -->
-    <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="NPM" /></a>
-    <!-- PHP New -->
-    <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a> 
-    <!-- CodeIgniter New -->
-    <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter 4"/></a>
-    <!-- Composer -->
-    <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/composer.svg" width="32" title="Composer" /> </a> 
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42" height="42" alt="MySQL" title="MySQL"/></a>
-    <!-- MongoDB -->
-    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="42" title="MongoDB" /> </a>
-    <!-- Git New -->
-    <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="Git"/></a> 
-    <!-- GitHub -->
-    <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="42" title="Docker" /></a> 
-    <!-- AWS -->
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/aws.svg" width="42" title="AWS" /></a>
-    <!-- NGINX -->
-    <a href="http://nginx.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="42" title="Nginx" /></a>
-    <!-- VS Code New -->
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
-    <!-- XAMPP -->
-    <a href="https://www.apachefriends.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/xampp.svg" width="42" title="XAMPP" /></a>
-    <!-- Figma -->
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" title="Figma"/></a>
-    <!-- Postman -->
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" width="42" height="42" alt="Postman" title="Postman"/></a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a>
+
 </p>
+
+2. Framework
+3. Database
+4. DevOps
+5. Tools
+
 <br/>
 
 <p align="center">
@@ -105,6 +78,6 @@
 
 <a href="https://github.com/iwansuryaningrat?tab=followers"><img src="https://img.shields.io/github/followers/iwansuryaningrat?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
 ## BADGE
+
 [![@sningrat_'s Holopin board](https://holopin.me/sningrat_)](https://holopin.io/@sningrat_)
