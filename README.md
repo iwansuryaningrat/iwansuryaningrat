@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/iwansuryaningrat"><img alt="Iwan Suryaningrat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iwansuryaningrat&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true" /></a>
+[![Iwan Suryaningrat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iwansuryaningrat&theme=tokyo-night)](https://github.com/iwansuryaningrat/github-readme-activity-graph)
 
 ## Connect with me:
 
