@@ -117,25 +117,14 @@
 
 <br/>
 
-<p align="center">
-
-    ![iwansuryaningrat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=tokyonight&hide_border=true)
-
-</p>
-
-<br/>
+![iwansuryaningrat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=tokyonight&hide_border=true)
 
 ![iwansuryaningrat's Stats](https://github-readme-stats.vercel.app/api?username=iwansuryaningrat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<br/>
-
 ![iwansuryaningrat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwansuryaningrat&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-<br/>
 
 <b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.
 
-<br/>
 <br/>
 <br/>
 
