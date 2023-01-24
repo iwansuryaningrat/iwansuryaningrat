@@ -155,4 +155,4 @@
 
 ## 📌 Pinned Repositories
 
-![Cuanmax Backend](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=zynergi&theme=tokyonight)
+![Cuanmax Backend](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=backend-cuanmax&theme=tokyonight)
