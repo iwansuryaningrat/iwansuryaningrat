@@ -157,6 +157,6 @@
 
 ![SIPMPP](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=SIPMPP-Apps&theme=tokyonight)
 
-<!-- ![Cuanmax Backend](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=simpelmen-be&theme=tokyonight)
+![Cuanmax Backend](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=simpelmen-be&theme=tokyonight)
 
-![Sistem Informasi Kependudukan](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=Sistem-informasi-kependudukan&theme=tokyonight) -->
+<!-- ![Sistem Informasi Kependudukan](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=Sistem-informasi-kependudukan&theme=tokyonight) -->
