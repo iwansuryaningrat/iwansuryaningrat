@@ -150,3 +150,9 @@
 ## BADGE
 
 [![@sningrat_'s Holopin board](https://holopin.me/sningrat_)](https://holopin.io/@sningrat_)
+
+<!-- Pinned Repo -->
+
+## 📌 Pinned Repositories
+
+![Cuanmax Backend](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=backend-cuanmax&theme=tokyonight)
