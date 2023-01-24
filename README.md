@@ -159,6 +159,4 @@
 
 ![simpelmen-be](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=simpelmen-be&theme=tokyonight)
 
-![backend-cuanmax](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=backend-cuanmax&theme=tokyonight)
-
 ![Sistem Informasi Kependudukan](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=Sistem-informasi-kependudukan&theme=tokyonight)
