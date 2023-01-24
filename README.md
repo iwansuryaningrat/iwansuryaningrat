@@ -118,19 +118,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/iwansuryaningrat">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iwan Suryaningrat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
-    </a>
+
+![iwansuryaningrat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iwansuryaningrat&theme=tokyonight&hide_border=true)
+
 </p>
 
 <br/>
-<a href="https://github.com/iwansuryaningrat"><img alt="Iwan Suryaningrat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iwansuryaningrat&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
+
+![iwansuryaningrat's Stats](https://github-readme-stats.vercel.app/api?username=iwansuryaningrat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <br/>
 
-<a href="https://github.com/iwansuryaningrat"><img alt="Iwan Suryaningrat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwansuryaningrat&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" /></a>
+![iwansuryaningrat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwansuryaningrat&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 <br/>
+
 <b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.
+
 <br/>
 <br/>
 <br/>
