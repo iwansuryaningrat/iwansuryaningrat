@@ -145,7 +145,7 @@
 <a style="padding-right:24px;" href = "https://www.linkedin.com/in/iwan-suryaningrat/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://www.instagram.com/sningrat_/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://twitter.com/tagtitikkoma"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="42px"/></a>
-<a style="padding-right:24px;" href = "https://iwansuryaningrat.showwcase.com/"><img src="./assets/devdotto.svg" width="42px"/></a>
+<a style="padding-right:24px;" href = "https://www.showwcase.com/iwansuryaningrat"><img src="./assets/devdotto.svg" width="42px"/></a>
 
 </p>
 
