@@ -1,6 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm <a href="https://github.com/iwansuryaningrat">Iwan Suryaningrat</a></h1>
 <h3 align="center">I'm a passionate Back-End Engineer from Indonesia.</h3>
 
+<p align="center">
+        <a href="https://github.com/iwansuryaningrat?tab=followers"><img src="https://img.shields.io/github/followers/iwansuryaningrat?label=Followers&style=social" alt="GitHub Badge"></a>
+        <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=iwansuryaningrat"></a>
+        <a href="https://github.com/iwansuryaningrat"><img src="https://img.shields.io/github/stars/iwansuryaningrat?style=social" alt="GitHub Badge"></a>
+</p>
+
+<br/>
+
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in Back-End Engineer.
@@ -140,12 +148,12 @@
 
 </p>
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iwansuryaningrat">
 </a>
-<a href="https://github.com/iwansuryaningrat?tab=followers"><img src="https://img.shields.io/github/followers/iwansuryaningrat?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/iwansuryaningrat?tab=followers"><img src="https://img.shields.io/github/followers/iwansuryaningrat?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 ## BADGE
 
