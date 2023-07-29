@@ -54,6 +54,8 @@
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="JQuery" title="JQuery" /></a> 
     <!-- ExpressJS -->
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" alt="Express" title="ExpressJS" /></a>
+    <!-- NestJS -->
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="42" height="42" alt="Nest" title="NestJS" /></a>
     <!-- CodeIgniter New -->
     <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter"/></a>
     <!-- Laravel -->
@@ -95,6 +97,8 @@
     <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
     <!-- NPM New -->
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="NPM" /></a>
+    <!-- YARN New -->
+    <a href="https://yarnpkg.com/" target="_blank"><img src="./assets/yarn.svg" width="42" title="YARN" /></a>
     <!-- Composer -->
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/composer.svg" width="32" title="Composer" /> </a>
     <!-- Docker -->
