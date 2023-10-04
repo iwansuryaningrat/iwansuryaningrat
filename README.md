@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in Back-End Engineer.
+- 👀 I’m interested in Backend Engineer.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics
 - 🏢 I'm a Backend Developer at <a href="https://youapp.ai/">**YouApp**</a>.
 - 💻 I'm also a freelancer for website development
