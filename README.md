@@ -74,7 +74,14 @@
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="42" title="MongoDB" /> </a>
 </p>
 
-##### 4. Cloud & DevOps
+#### 4. Message Broker
+
+<p align="left">
+    <!-- Rabbit MQ -->
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="42" height="42" alt="RabbitMQ" title="RabbitMQ"/></a>
+</p>
+
+##### 5. Cloud & DevOps
 
 <p align="left">
     <!-- AWS -->
@@ -87,7 +94,7 @@
     <a href="http://nginx.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="42" title="Nginx" /></a>
 </p>
 
-#### 5. Tools
+#### 6. Tools
 
 <p align="left">
     <!-- VS Code New -->
@@ -114,7 +121,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" title="Figma"/></a>
 </p>
 
-#### 6. Operating System
+#### 7. Operating System
 
 <p align="left">
     <!-- Windows -->
