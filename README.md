@@ -104,7 +104,7 @@
     <!-- GitHub -->
     <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
     <!-- BitBucket -->
-    <a style="padding-right:8px;" href="https://bitbucket.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" width="42" title="Bitbucket" /> </a> 
+    <a style="padding-right:8px;" href="https://bitbucket.org/" target="_blank"> <img src="./assets/bitbucket.svg" width="42" title="Bitbucket" /> </a> 
     <!-- NPM New -->
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="NPM" /></a>
     <!-- YARN New -->
