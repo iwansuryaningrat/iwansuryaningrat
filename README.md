@@ -40,7 +40,7 @@
     <!-- PHP -->
     <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a>
     <!-- Golang -->
-    <a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="42" title="Go" /></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="42" title="Go" /></a>
     <!-- Python -->
     <a href="https://www.python.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="42" title="Python" /></a>
 
