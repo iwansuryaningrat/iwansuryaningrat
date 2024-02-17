@@ -175,6 +175,8 @@
 
 ## 📌 Pinned Repositories
 
+![Game API](https://github-readme-stats.vercel.app/api/pin/?username=sningratGames&repo=game-api&theme=tokyonight)
+
 ![SIPMPP](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=SIPMPP-Apps&theme=tokyonight)
 
 ![simpelmen-be](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=simpelmen-be&theme=tokyonight)
