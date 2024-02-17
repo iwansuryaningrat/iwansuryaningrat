@@ -60,7 +60,7 @@
     <!-- CodeIgniter -->
     <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter"/></a>
     <!-- Laravel -->
-    <a href="https://laravel.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="42" title="Laravel"/></a>
+    <a href="https://laravel.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/laravel.svg" width="42" title="Laravel"/></a>
 </p>
 
 #### 3. Database
@@ -87,7 +87,7 @@
     <!-- AWS -->
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" width="42" title="AWS" /></a>
     <!-- Digital Ocean -->
-    <a href="https://www.digitalocean.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="42" title="Digital Ocean" /></a>
+    <a href="https://www.digitalocean.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" width="42" title="Digital Ocean" /></a>
     <!-- Heroku -->
     <a href="https://www.heroku.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="42" title="Heroku" /></a>
     <!-- NGINX -->
@@ -114,7 +114,7 @@
     <!-- Composer -->
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/composer.svg" width="32" title="Composer" /> </a>
     <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="42" title="Docker" /></a> 
+    <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="42" title="Docker" /></a> 
     <!-- Kubernetes -->
     <a href="https://kubernetes.io/id/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" width="42" title="Kubernetes" /></a> 
     <!-- XAMPP -->
