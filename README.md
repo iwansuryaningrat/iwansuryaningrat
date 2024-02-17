@@ -163,22 +163,10 @@
 <a style="padding-right:24px;" href = "https://www.linkedin.com/in/iwan-suryaningrat/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://www.instagram.com/sningrat_/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://twitter.com/tagtitikkoma"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="42px"/></a>
-<a style="padding-right:24px;" href = "https://www.showwcase.com/iwansuryaningrat"><img src="./assets/devdotto.svg" width="42px"/></a>
+<a style="padding-right:24px;" href = "https://www.showwcase.com/iwansuryaningrat"><img src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" width="42px"/></a>
 
 </p>
 
 ## BADGE
 
 [![@sningrat_'s Holopin board](https://holopin.me/sningrat_)](https://holopin.io/@sningrat_)
-
-<!-- Pinned Repo -->
-
-## 📌 Pinned Repositories
-
-![Game API](https://github-readme-stats.vercel.app/api/pin/?username=sningratGames&repo=game-api&theme=tokyonight)
-
-![SIPMPP](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=SIPMPP-Apps&theme=tokyonight)
-
-![simpelmen-be](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=simpelmen-be&theme=tokyonight)
-
-![Sistem Informasi Kependudukan](https://github-readme-stats.vercel.app/api/pin/?username=iwansuryaningrat&repo=Sistem-informasi-kependudukan&theme=tokyonight)
