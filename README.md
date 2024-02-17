@@ -40,7 +40,7 @@
     <!-- PHP -->
     <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a>
     <!-- Golang -->
-    <a href="https://go.dev/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="42" title="Go" /></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="42" title="Go" /></a>
     <!-- Python -->
     <a href="https://www.python.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="42" title="Python" /></a>
 
@@ -90,6 +90,8 @@
     <a href="https://www.digitalocean.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" width="42" title="Digital Ocean" /></a>
     <!-- Heroku -->
     <a href="https://www.heroku.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="42" title="Heroku" /></a>
+    <!-- Vercel -->
+    <a href="https://www.vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="42" title="Vercel" /></a>
     <!-- NGINX -->
     <a href="http://nginx.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="42" title="Nginx" /></a>
 </p>
