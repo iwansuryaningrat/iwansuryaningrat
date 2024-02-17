@@ -30,9 +30,9 @@
     <!-- CSS -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
     <!-- JavaScript -->
-    <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="42" title="JavaScript" /></a>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" width="42" title="JavaScript" /></a>
     <!-- TypeScript -->
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="42" title="TypeScript" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="42" title="TypeScript" /></a>
     <!-- JSON -->
     <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="42" title="JSON" /></a>
     <!-- Node.js -->
