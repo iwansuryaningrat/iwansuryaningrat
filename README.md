@@ -34,11 +34,11 @@
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="42" title="TypeScript" /></a>
     <!-- JSON -->
-    <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
+    <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="42" title="JSON" /></a>
     <!-- Node.js -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a>
     <!-- PHP -->
-    <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="42" title="PHP" /></a>
     <!-- Golang -->
     <a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="42" title="Go" /></a>
     <!-- Python -->
