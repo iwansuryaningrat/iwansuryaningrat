@@ -91,16 +91,16 @@
     <!-- Heroku -->
     <a href="https://www.heroku.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="42" title="Heroku" /></a>
     <!-- NGINX -->
-    <a href="http://nginx.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="42" title="Nginx" /></a>
+    <a href="http://nginx.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="42" title="Nginx" /></a>
 </p>
 
 #### 6. Tools
 
 <p align="left">
     <!-- VS Code -->
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" width="42" title="Visual Studio Code" /></a>
     <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="Git"/></a> 
+    <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg" width="42" title="Git"/></a> 
     <!-- GitHub -->
     <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
     <!-- BitBucket -->
@@ -108,9 +108,9 @@
     <!-- GitLab -->
     <a style="padding-right:8px;" href="https://gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="42" title="GitLab" /> </a> 
     <!-- NPM -->
-    <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="NPM" /></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/npm-icon.svg" width="42" title="NPM" /></a>
     <!-- YARN -->
-    <a href="https://yarnpkg.com/" target="_blank"><img src="./assets/yarn.svg" width="42" title="YARN" /></a>
+    <a href="https://yarnpkg.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/yarn.svg" width="42" title="YARN" /></a>
     <!-- Composer -->
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/composer.svg" width="32" title="Composer" /> </a>
     <!-- Docker -->
