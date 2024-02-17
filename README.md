@@ -25,19 +25,19 @@
 #### 1. Programming
 
 <p align="left"> 
-    <!-- HTML New -->
+    <!-- HTML -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
-    <!-- CSS New -->
+    <!-- CSS -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
-    <!-- JavaScript New -->
+    <!-- JavaScript -->
     <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="42" title="JavaScript" /></a>
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="42" title="TypeScript" /></a>
-    <!-- JSON New -->
+    <!-- JSON -->
     <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
     <!-- Node.js -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs-icon.svg" width="36" title="NodeJs" /> </a>
-    <!-- PHP New -->
+    <!-- PHP -->
     <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a>
     <!-- Golang -->
     <a href="https://go.dev/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="42" title="Go" /></a>
@@ -49,7 +49,7 @@
 #### 2. Framework
 
 <p align="left">
-    <!-- Bootstrap New -->
+    <!-- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="42" title="Bootstrap"/></a> 
     <!-- JQuery -->
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="JQuery" title="JQuery" /></a> 
@@ -57,7 +57,7 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" alt="Express" title="ExpressJS" /></a>
     <!-- NestJS -->
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="42" height="42" alt="Nest" title="NestJS" /></a>
-    <!-- CodeIgniter New -->
+    <!-- CodeIgniter -->
     <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter"/></a>
     <!-- Laravel -->
     <a href="https://laravel.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="42" title="Laravel"/></a>
@@ -97,19 +97,19 @@
 #### 6. Tools
 
 <p align="left">
-    <!-- VS Code New -->
+    <!-- VS Code -->
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
-    <!-- Git New -->
+    <!-- Git -->
     <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="42" title="Git"/></a> 
     <!-- GitHub -->
     <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /> </a> 
     <!-- BitBucket -->
-    <a style="padding-right:8px;" href="https://bitbucket.org/" target="_blank"> <img src="./assets/bitbucket.svg" width="42" title="Bitbucket" /> </a> 
+    <a style="padding-right:8px;" href="https://bitbucket.org/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="42" title="Bitbucket" /> </a> 
     <!-- GitLab -->
     <a style="padding-right:8px;" href="https://gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="42" title="GitLab" /> </a> 
-    <!-- NPM New -->
+    <!-- NPM -->
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="NPM" /></a>
-    <!-- YARN New -->
+    <!-- YARN -->
     <a href="https://yarnpkg.com/" target="_blank"><img src="./assets/yarn.svg" width="42" title="YARN" /></a>
     <!-- Composer -->
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/composer.svg" width="32" title="Composer" /> </a>
