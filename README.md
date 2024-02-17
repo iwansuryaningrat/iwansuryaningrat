@@ -154,7 +154,7 @@
 <br/>
 <br/>
 
-[![Iwan Suryaningrat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iwansuryaningrat&theme=tokyo-night)](https://github.com/iwansuryaningrat/github-readme-activity-graph)
+[![Iwan Suryaningrat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 
@@ -163,7 +163,7 @@
 <a style="padding-right:24px;" href = "https://www.linkedin.com/in/iwan-suryaningrat/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://www.instagram.com/sningrat_/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://twitter.com/tagtitikkoma"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="42px"/></a>
-<a style="padding-right:24px;" href = "https://www.showwcase.com/iwansuryaningrat"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="42px"/></a>
+<a style="padding-right:24px;" href = "https://www.showwcase.com/iwansuryaningrat"><img src="./assets/devdotto.svg" width="42px"/></a>
 
 </p>
 
