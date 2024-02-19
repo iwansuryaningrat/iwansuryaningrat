@@ -88,6 +88,10 @@
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" width="42" title="AWS" /></a>
     <!-- Digital Ocean -->
     <a href="https://www.digitalocean.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" width="42" title="Digital Ocean" /></a>
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="42" title="Docker" /></a> 
+    <!-- Kubernetes -->
+    <a href="https://kubernetes.io/id/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" width="42" title="Kubernetes" /></a> 
     <!-- Heroku -->
     <a href="https://www.heroku.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="42" title="Heroku" /></a>
     <!-- Vercel -->
@@ -115,10 +119,6 @@
     <a href="https://yarnpkg.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/yarn.svg" width="42" title="YARN" /></a>
     <!-- Composer -->
     <a style="padding-right:8px;" href="https://getcomposer.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/composer.svg" width="32" title="Composer" /> </a>
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="42" title="Docker" /></a> 
-    <!-- Kubernetes -->
-    <a href="https://kubernetes.io/id/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" width="42" title="Kubernetes" /></a> 
     <!-- XAMPP -->
     <a href="https://www.apachefriends.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/xampp.svg" width="42" title="XAMPP" /></a>
     <!-- Postman -->
