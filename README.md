@@ -26,7 +26,7 @@
 
 <p align="left"> 
     <!-- HTML -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="./assets//html.svg" width="42" title="HTML5" /></a>
     <!-- CSS -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
     <!-- JavaScript -->
