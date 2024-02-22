@@ -28,7 +28,7 @@
     <!-- HTML -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="./assets//html.svg" width="42" title="HTML5" /></a>
     <!-- CSS -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="./assets/css.svg" width="42" title="CSS3"/></a>
     <!-- JavaScript -->
     <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" width="42" title="JavaScript" /></a>
     <!-- TypeScript -->
