@@ -55,10 +55,10 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/expressjs.svg" width="42" height="42" alt="Express" title="ExpressJS" /></a>
     <!-- NestJS -->
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="./assets/nestjs.svg" width="42" height="42" alt="Nest" title="NestJS" /></a>
-    <!-- CodeIgniter -->
-    <a href="https://codeigniter.com/" target="_blank"><img src="./assets/codeigniter.svg" width="42" title="Codeigniter"/></a>
     <!-- Laravel -->
     <a href="https://laravel.com/" target="_blank"><img src="./assets/laravel.svg" width="42" title="Laravel"/></a>
+    <!-- CodeIgniter -->
+    <a href="https://codeigniter.com/" target="_blank"><img src="./assets/codeigniter.svg" width="42" title="Codeigniter"/></a>
 </p>
 
 #### 3. Database
