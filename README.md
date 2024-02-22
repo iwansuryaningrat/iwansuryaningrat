@@ -70,10 +70,8 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./assets/postgresql.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL"/></a>
     <!-- MongoDB -->
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" width="42" title="MongoDB" /> </a>
-</p>
     <!-- Redis -->
     <a style="padding-right:8px;" href="https://redis.io/" target="_blank"> <img src="./assets/redis.svg" width="42" title="Redis" /> </a>
-</p>
     <!-- Firebase -->
     <a style="padding-right:8px;" href="https://firebase.google.com/" target="_blank"> <img src="./assets/firebase.svg" width="42" title="Firebase" /> </a>
 </p>
@@ -122,7 +120,7 @@
     <!-- GitLab -->
     <a style="padding-right:8px;" href="https://gitlab.com/" target="_blank"> <img src="./assets/gitlab.svg" width="42" title="GitLab" /> </a> 
     <!-- NPM -->
-    <a href="https://www.npmjs.com/" target="_blank"><img src="./assets/npm-icon.svg" width="42" title="NPM" /></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="./assets/npm.svg" width="42" title="NPM" /></a>
     <!-- YARN -->
     <a href="https://yarnpkg.com/" target="_blank"><img src="./assets/yarn.svg" width="42" title="YARN" /></a>
     <!-- Composer -->
