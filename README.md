@@ -169,7 +169,7 @@
 <a style="padding-right:24px;" href = "https://www.instagram.com/sningrat_/"><img src="./assets//instagram.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://twitter.com/sningrat_"><img src="./assets/x.svg" width="42px"/></a>
 <a style="padding-right:24px;" href = "https://www.showwcase.com/iwansuryaningrat"><img src="./assets/devto.svg" width="42px"/></a>
-<a style="padding-right:24px;" href = "https://iwansuryaningrat.github.io/"><img src="./assets/website.svg" width="42px"/></a>
+<a style="padding-right:24px;" href = "https://iwansuryaningrat.tech/"><img src="./assets/website.svg" width="42px"/></a>
 
 </p>
 
