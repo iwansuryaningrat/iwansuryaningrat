@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/iwansuryaningrat">Iwan Suryaningrat</a></h1>
 
 <h3 align="center">I'm a passionate Back-End Engineer from Indonesia.</h3>
+<h5 align="center"><a href="https://iwansuryaningrat.tech/" target="_blank" rel="noreferrer">iwansuryaningrat.tech</a></h5>
 
 <p align="center">
         <a href="https://github.com/iwansuryaningrat?tab=followers"><img src="https://img.shields.io/github/followers/iwansuryaningrat?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -12,12 +13,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in Backend Engineer.
-- 🌱 I’m currently learning at Diponegoro University, majoring in Informatics
-- 🏢 I'm a Backend Developer at <a href="https://youapp.ai/">**YouApp**</a>.
-- 💻 I'm also a freelancer for website development
-- 💞️ I’m looking to collaborate on to improve my skills
-- 📫 You can contact me via Gmail at <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
+- 🎓 Graduated from Diponegoro University, majoring in Informatics.
+- 💼 Currently working as a Back-End Developer at <a href="https://ezclass.io/">**Ezclass**</a>.
+- 🧑‍💻 Freelancing on various web development projects.
+- 🤝 Open to collaboration and new opportunities to grow.
+- 📬 Reach me at: <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
   <br/>
 
 ## 🚀 Languages and Tools:
@@ -177,3 +177,17 @@
 ## BADGE
 
 [![@sningrat_'s Holopin board](https://holopin.me/sningrat_)](https://holopin.io/@sningrat_)
+
+## Play Games with Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iwansuryaningrat/iwansuryaningrat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iwansuryaningrat/iwansuryaningrat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iwansuryaningrat/iwansuryaningrat/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/iwansuryaningrat/iwansuryaningrat/output/snake.svg" alt="Snake animation" />
+
+###
