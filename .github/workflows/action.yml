@@ -25,26 +25,15 @@ jobs:
           outputs: dist/snake.svg?palette=github-dark
           palette: github-dark
 
-  Generate-Pacman:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: iwansuryaningrat
 
-  Push-Assets:
-    runs-on: ubuntu-latest
-    needs: [Generate-Snake, Generate-Pacman]
-    steps:
       - name: Check dist folder contents
         run: ls -R dist
 
-      - name: push snake.svg to the output branch
+      - name: push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
