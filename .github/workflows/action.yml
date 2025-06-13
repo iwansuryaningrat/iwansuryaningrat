@@ -11,7 +11,7 @@ on:
       - main
 
 jobs:
-  Generate-Snake:
+  Generate-Assets:
     permissions:
       contents: write
     runs-on: ubuntu-latest
