@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Graduated from Diponegoro University, majoring in Informatics.
-- 💼 Currently working as a Back-End Developer at <a href="https://ezclass.io/">**Ezclass**</a>.
+- 💼 Currently working as a Back-End Developer at <a href="https://www.alphareds.com/">**Alpha Red Solutions**</a>.
 - 🧑‍💻 Freelancing on various web development projects.
 - 🤝 Open to collaboration and new opportunities to grow.
 - 📬 Reach me at: <a href="mailto:iwan.suryaningrat28@gmail.com?">iwan.suryaningrat28@gmail.com</a>
